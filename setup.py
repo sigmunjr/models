@@ -11,7 +11,7 @@ REQUIRED_PACKAGES = ['Pillow>=1.0',
                      'lxml',
                      'jupyter',
                      'matplotlib',
-                     'tensorflow',
+                     'tensorflow==1.14.0',
                      'contextlib2']
 
 setup(
